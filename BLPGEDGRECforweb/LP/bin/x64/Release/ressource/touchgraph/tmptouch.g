@@ -1,0 +1,27 @@
+v  0 Graph1__0;
+v  1 Graph1__1;
+v  2 Graph1__2;
+v  3 Graph1__3;
+v  4 Graph1__4;
+v  5 Graph1__5;
+v  6 Graph2__0;
+v  7 Graph2__1;
+v  8 Graph2__2;
+v  9 Graph2__3;
+v  10 Graph2__4;
+v  11 Graph2__5;
+d  0 1 Graph1__0-_1-0;
+d  0 5 Graph1__0-_5-1;
+d  1 2 Graph1__1-_2-2;
+d  3 4 Graph1__3-_4-3;
+d  6 7 Graph2__0-_1-0;
+d  7 8 Graph2__1-_2-1;
+d  9 10 Graph2__3-_4-2;
+d  10 11 Graph2__4-_5-3;
+d  0 6 Iso0;
+d  1 7 Iso1;
+d  2 8 Iso2;
+d  3 9 Iso3;
+d  4 10 Iso4;
+d  5 11 Iso5;
+

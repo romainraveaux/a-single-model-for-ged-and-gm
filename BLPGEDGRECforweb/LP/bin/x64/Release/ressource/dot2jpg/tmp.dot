@@ -1,0 +1,15 @@
+digraph G { edge [dir=none,color=darkorange, style=bold, fontname=tahoma, fontsize=10]; node [shape=box,color=royalblue,fontcolor=white, fontname=tahoma, fontsize=10,style=filled];
+"0"[label="0 : 273;184"];
+"1"[label="1 : 75;-15"];
+"2"[label="2 : 436;-25"];
+"3"[label="3 : 269;523"];
+"4"[label="4 : 261;-15"];
+"5"[label="5 : 89;16"];
+"0" -> "1" [label="0-1-0: "];
+"0" -> "4" [label="0-4-1: "];
+"0" -> "3" [label="0-3-2: "];
+"0" -> "2" [label="0-2-3: "];
+"1" -> "4" [label="1-4-4: "];
+"2" -> "4" [label="2-4-5: "];
+"1" -> "5" [label="1-5-6: "];
+}
