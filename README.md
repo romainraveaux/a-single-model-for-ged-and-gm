@@ -6,3 +6,5 @@ The companion website of this project : https://sites.google.com/view/a-single-m
 
 
 My personal website : http://romain.raveaux.free.fr
+
+[<img src="http://romain.raveaux.free.fr/document/singlemodelgmandgedmodelv3.png">](Graphical Abstract)
